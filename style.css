@@ -1,0 +1,56 @@
+body{
+			background-image: url(https://img.freepik.com/free-photo/beautiful-tropical-empty-beach-sea-ocean-with-white-cloud-blue-sky-background_74190-13668.jpg?w=360&t=st=1706461450~exp=1706462050~hmac=2096864a48df276a9fbf5c4ee734e4107ae5ffc1bbe052a2380c4fcdb88ba8b1);
+			background-repeat: no-repeat;
+				background-size: cover;
+				background-color: yellow;
+				}
+		
+
+.fa{
+	padding: 20px;
+	font-size: 20px;
+	width: 20px;
+	text-align: center;
+	margin: 10px 20px;
+	border-radius: 100%;
+	text-decoration: none;
+}
+.fa:hover{
+	opacity: 0.9;
+}
+.fa-facebook{
+	background-color: blue;
+	color: white;
+	height: 20px;
+	width: 20px;
+	border-radius: 20px;
+}
+.fa-twitter{
+	background-color: blue;
+	color: white;
+	height: 20px;
+	width: 20px;
+	border-radius: 20px;
+}
+.fa-google{
+	background-color: white;
+	color: red greenyellow;
+	height: 20px;
+	border-radius: 20px;
+}
+.fa-instagram{
+	background-color: mediumvioletred;
+	color: white;
+	height: 20px;
+	width: 25px;
+	border-radius: 20px;
+}
+.fa-whatsapp{
+	background-color: white;
+	color: green;
+	height: 20px;
+	width: 20px;
+	border-radius: 20px;
+}
+
+
